@@ -1,0 +1,25 @@
+ion-content{
+    --ion-background-color: #477b72;
+}
+*{
+    margin:0;
+    padding: 0;   
+}
+
+h3{
+    margin-top: 5%;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.div1{
+    border-radius: 25px;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
